@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Victor
-- 👀 I’m interested in gaming 
 - 🌱 I’m currently learning java
 - 📫 How to reach me: victorcaetanosouto@hotmail.com
 
