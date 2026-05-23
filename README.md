@@ -8,8 +8,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 📱 &nbsp; **Milestone:** Successfully built and published production mobile applications to the Apple App Store & Google Play.
-- 🔭 &nbsp; Working on robust mobile applications and scalable backend integrations.
-- 🤔 &nbsp; Exploring agentic AI, building SaaS platforms, and automating complex workflows.
+- 🔭 &nbsp; Working on mobile applications and backend integrations.
+- 🤔 &nbsp; Exploring agentic AI, building platforms, and automating workflows.
 - 🎓 &nbsp; Graduated with a Bachelor's in **Software Engineering**.
 - 💼 &nbsp; Software Engineer / Developer by profession.
 - 🌱 &nbsp; Constantly building with Flutter, Java and Python ecosystems.
