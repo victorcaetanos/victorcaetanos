@@ -1,90 +1,71 @@
-<h1 align='center'>
-  Hi there 👋 I'm Victor 👨‍💻
-</h1>
+<h2>Hey there! I'm Victor Caetano.</h2>
+<h3>A passionate Full Stack Developer.</h3>
 
-<p align='center'>
-  A Software Engineer Student at <a href="https://www.unirv.edu.br/">University of Rio Verde</a>.<br>
-  Currently learning <b>RESTful APIs</b> and <b>Java Spring</b> 💻 
-</p>
+<img align="right" alt="This is fine" src="https://raw.githubusercontent.com/victorcaetanos/victorcaetanos/main/this-is-fine.png" width="350"/>
 
-<p align='center'>
-  <a href="mailto:victorcsbusiness@gmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<br>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; Working on robust mobile applications and scalable backend integrations.
+- 🤔 &nbsp; Exploring agentic AI, building SaaS platforms, and automating complex workflows.
+- 🎓 &nbsp; Graduated with a Bachelor's in **Software Engineering**.
+- 💼 &nbsp; Software Engineer / Developer by profession.
+- 🌱 &nbsp; Constantly building with Flutter, Java and Python ecosystems.
+- ☕ &nbsp; `coffee == 'perfectly brewed' ? mood = 'boosted' : '!boosted'`
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; **Frontend & Mobile:** Flutter | Dart | JavaScript | HTML | CSS
+- ⚙️ &nbsp; **Backend & Logic:** Java | Python | Firebase
+- 🛢 &nbsp; **Databases & ERP:** Oracle Database | Sankhya
+- 🔧 &nbsp; **Tools & OS:** GitHub | GitHub Copilot | Claude | Antigravity | Linux 
+
+<br>
+
+<img align="center" src="https://github-readme-stats-nikhil.vercel.app/api?username=victorcaetanos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Victor's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats-nikhil.vercel.app/api/top-langs/?username=victorcaetanos&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/victorcaetanos/github-readme-stats)
+
+<h3 align="left">Languages and Tools:</h3>
+
+<div align="left">
+  <!-- Mobile & Frontend -->
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
   
-  <a href="https://linkedin.com/in/victorcaetanos/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Backend & Languages -->
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
+  <img width="12" />
+  
+  <!-- Databases & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle database logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  
+  <!-- Tools & Environment -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+</div>
+
+<br>
+
+<h3> Connect with Me </h3>
+
+<p>
+&nbsp; <a href="https://www.linkedin.com/in/victorcaetanos" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:victorcsbusiness@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=victorcaetanos&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-rtx%202070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:victorcsbusiness@gmail.com'>victorcsbusiness@gmail.com</a>
-</p>
-
-<p align="center">
-  <a href="https://www.edx.org/">
-  <img align='center' src="https://img.shields.io/badge/Studying-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"/></a>
-</p>
-
-
-<details>
-  <summary>📃 Resume</summary>
-
-## Education
-    
-- 📖 **Software Engineering**\
-📆 2022 - 2025\
-📍 **University of Rio Verde** - Rio Verde/GO, Brazil
-
-## Experience
-
-- 👨‍💻 **Customer Support**\
-📆 2023 - 2024\
-📍 **Águia Informática e Tecnologia** -  Rio Verde/GO, Brazil
-
-<img src="https://img.shields.io/badge/Firebird-D83B01?style=for-the-badge&logo=firebird&logoColor=white" />
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-
-</details>
-
-<details>
-  <summary>📃 Tech Stack </summary>
-
-  <div  align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcaetanos&locale=en&hide_title=false&layout=compact&langs_count=10&theme=dark&hide_border=false"alt="languages graph"/>
-  </div>
-
-  <div  align="center"> 
-    <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <br>
-    <img src="https://img.shields.io/badge/Java-FF5722?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-0A62A3?style=for-the-badge&logo=python&logoColor=FFD43B"/> 
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/C%23-734F96?style=for-the-badge&logo=csharp&logoColor=white"/> 
-    <br> 
-    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=000"/>
-  </div> 
-</details>
-<p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting"/></p>
